@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="yestefir — Bots. Backends. Real-time systems. Go / TypeScript / JavaScript" />
+  <a href="https://yestefir.com"><img src="./assets/header.svg" width="100%" alt="YESTEFIR — Backend. Infrastructure. Real-time. Visit yestefir.com" /></a>
 </p>
 
 <p align="center">
