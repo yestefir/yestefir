@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">yestefir — Bots. Backends. Real-time systems.</title>
+  <desc id="desc">Dark navy banner with mint typography, violet orbital paths, and connected nodes. Go, TypeScript, JavaScript.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#101827"/><stop offset="1" stop-color="#0B101B"/></linearGradient>
+    <linearGradient id="orbit" x1="850" y1="60" x2="1180" y2="350" gradientUnits="userSpaceOnUse"><stop stop-color="#AF9BFF"/><stop offset="1" stop-color="#69E5C0"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#AAB9D0" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1278" height="418" rx="24" fill="url(#bg)" stroke="#293548" stroke-width="2"/>
+  <rect x="20" y="20" width="1240" height="380" rx="16" fill="url(#grid)"/>
+  <path d="M64 65H96" stroke="#69E5C0" stroke-width="4" stroke-linecap="round"/>
+  <text x="110" y="70" fill="#A6B6CC" font-family="Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="3">YESTEFIR / DEVELOPER</text>
+  <text x="60" y="174" fill="#F1F5FC" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="88" font-weight="700" letter-spacing="-5">yestefir<tspan fill="#69E5C0">.</tspan></text>
+  <text x="64" y="228" fill="#D1DAE9" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="27">Bots. Backends. Real-time systems.</text>
+  <text x="64" y="266" fill="#94A5BF" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19">From platform events to voice connections.</text>
+  <g font-family="Consolas, 'Liberation Mono', monospace" font-size="14" text-anchor="middle">
+    <rect x="64" y="317" width="60" height="33" rx="7" fill="#142C2C" stroke="#31564D"/><text x="94" y="339" fill="#8DE9CD">Go</text>
+    <rect x="136" y="317" width="128" height="33" rx="7" fill="#1B253B" stroke="#344565"/><text x="200" y="339" fill="#A9C8FF">TypeScript</text>
+    <rect x="276" y="317" width="128" height="33" rx="7" fill="#302C22" stroke="#554C35"/><text x="340" y="339" fill="#EBD894">JavaScript</text>
+  </g>
+  <g transform="translate(1010 208)">
+    <circle r="144" stroke="#25334A"/>
+    <circle r="112" stroke="#25334A" stroke-dasharray="3 10"/>
+    <ellipse rx="168" ry="64" transform="rotate(-40)" stroke="url(#orbit)" stroke-width="2"/>
+    <ellipse rx="168" ry="64" transform="rotate(40)" stroke="url(#orbit)" stroke-opacity=".55" stroke-width="2"/>
+    <path d="M-110-92L0 0L114-87M0 0L110 93M0 0L-114 87" stroke="#536582" stroke-width="1.5" stroke-dasharray="5 6"/>
+    <circle r="49" fill="#172638" stroke="#536E83"/>
+    <path d="M-16-13L-30 0L-16 13M16-13L30 0L16 13M7-21L-7 21" stroke="#83EDCF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#0F1929" stroke="#AA98ED" stroke-width="2"><circle cx="-110" cy="-92" r="9"/><circle cx="114" cy="-87" r="9"/></g>
+    <g fill="#69E5C0"><circle cx="110" cy="93" r="6"/><circle cx="-114" cy="87" r="6"/></g>
+    <circle cx="0" cy="-144" r="4" fill="#7284A4"/>
+    <circle cx="0" cy="144" r="4" fill="#7284A4"/>
+  </g>
+  <path d="M64 391H1216" stroke="#28364A"/>
+</svg>
