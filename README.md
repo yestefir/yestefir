@@ -22,6 +22,16 @@ My focus: clear package boundaries, recoverable connections, and code that can g
 | **[discord-bot-nest](https://github.com/yestefir/discord-bot-nest)** | A Discord bot built with NestJS and Necord, using TypeORM and PostgreSQL. | `TypeScript` · `NestJS` · `PostgreSQL` |
 | **[discord-bot](https://github.com/yestefir/discord-bot)** | A customizable Discord.js v14 foundation with modular commands, event handlers, buttons, modals, and menus. | `JavaScript` · `Node.js` · `Discord.js` |
 
+### Referanslar
+
+<p>
+  <a href="https://mc-forum.net">mc-forum.net ↗</a> &nbsp; · &nbsp;
+  <a href="https://mangatr.com">mangatr.com ↗</a> &nbsp; · &nbsp;
+  <a href="https://servers-mc.net">servers-mc.net ↗</a><br />
+  <a href="https://hediyelikci.net">hediyelikci.net ↗</a> &nbsp; · &nbsp;
+  <a href="https://runiccraft.com">runiccraft.com ↗</a>
+</p>
+
 ### Where I spend my time
 
 - **Platform clients** — Gateway events, REST APIs, state caches, and rate limits.
